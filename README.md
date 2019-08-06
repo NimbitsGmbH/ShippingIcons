@@ -5,7 +5,10 @@ Shipping Icons for your webproject or onlineshop.
 - all icons as SVGs or as an IconFont
 - each Icon comes in 2 variants: Black/White, colored, colored with colored background
 
-## Contains the following icons:
+## Usage for web
+Check the example.html for instructions!
+
+## Contains the following icons
 - Carrier/Kurier (en/ger)
 - DHL
 - DHL express
