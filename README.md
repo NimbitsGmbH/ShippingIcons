@@ -2,7 +2,7 @@
 Shipping Icons for your webproject or onlineshop. We (Nimbits) are using this Icons in one of our Shopware plugins and thought we should make it available with all the changes we made.
 
 ## Features
-- all icons as SVGs or as an IconFont
+- all icons as SVGs or an IconFont
 - each Icon comes in three variants: Black/White, colored, colored with colored background
 
 ## Usage for web
